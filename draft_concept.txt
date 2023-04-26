@@ -1,0 +1,16 @@
+Auxiliar supermercado 
+=====================
+
+1. Cliente (ja cadastrado) cria e submete lista de compras para robo supermercado
+2. Robo identifica produtos prateleira a partir da lista do cliente 
+3. Supermercado identifica cliente na loja 
+
+    A partir de cameras instaladas em cada seção e produto, e de um sistema de face-detection (OpenCV + TF), 
+    o robo em uma loja identificará a entrada de um cliente cadastrado e passará a rastrea-lo durante todo o seu 
+    percurso na loja, informando a ele, via app (som + fone de ouvido) + placas sinalizadoras em cada secao e ao longo da loja 
+    a localização dos produtos de sua lista. 
+    As placas sinalizadoras conterão sinais particulares do cliente, informando o local onde ele deve ir para coletar seus produtos. 
+    As placas receberão informacoes do tracking que as cameras farão do cliente, assim, elas indicarão os sinais particulares de cada
+    cliente, a medida que ele passar pela seção associada à camera que fez o match do cliente.
+    
+     

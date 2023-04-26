@@ -1,0 +1,5 @@
+https://www.quora.com/How-do-I-download-and-use-DeepFaceLab-in-Windows
+https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html
+https://mrdeepfakes.com/forums/threads/guide-deepfacelab-2-0-guide.3886/#pid18459
+https://github.com/danielrpgj31/fire-detection-system-in-python-opencv
+https://opencv.org/releases/
